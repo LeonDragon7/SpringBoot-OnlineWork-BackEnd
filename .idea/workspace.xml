@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5a27033c-ba48-4c56-96cd-3c1b0dd8c9fd" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;LeonDragon7&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="3db13675-c625-4cfd-8927-410c06083973" />
+        <option name="url" value="https://github.com/LeonDragon7/SpringBoot-OnlineWork.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\BackEnd\Java\SpringBoot\maven\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\BackEnd\Java\SpringBoot\maven\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2dXif7qBE865KD1BDHG5PXOEAxE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+    <option name="sortKey" value="BY_TIME_ASCENDING" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "D:/数据结构/untitled",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "editing.templates",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\BackEnd\Java\SpringBoot\work-zh-parent\service-zh\src\main\resources\process" />
+      <recent name="D:\BackEnd\Java\SpringBoot\work-zh-parent\model\src\main\java\com\dragon" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\BackEnd\Java\SpringBoot\work-zh-parent\service-zh\src\main\java\com\dragon\process\mapper\xml" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.dragon.process.controller.api" />
+      <recent name="com" />
+      <recent name="com.dragon.leon.activiti" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ServiceAuthApplication">
+    <configuration name="CodeGet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dragon.leon.code.CodeGet" />
+      <module name="service-zh" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dragon.leon.code.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JwtHelper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dragon.common.jwt.JwtHelper" />
+      <module name="common-util" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dragon.common.jwt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProcessTestGateway.findPendingTaskList03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="service-zh" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dragon.leon.activiti.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.dragon.leon.activiti" />
+      <option name="MAIN_CLASS_NAME" value="com.dragon.leon.activiti.ProcessTestGateway" />
+      <option name="METHOD_NAME" value="findPendingTaskList03" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceAuthApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="service-zh" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dragon.ServiceAuthApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dragon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ServiceAuthApplication" />
+        <item itemvalue="Application.CodeGet" />
+        <item itemvalue="Application.JwtHelper" />
+        <item itemvalue="JUnit.ProcessTestGateway.findPendingTaskList03" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a27033c-ba48-4c56-96cd-3c1b0dd8c9fd" name="Changes" comment="" />
+      <created>1710160926061</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710160926061</updated>
+      <workItem from="1710160927290" duration="6304000" />
+      <workItem from="1710203357549" duration="3949000" />
+      <workItem from="1710207375475" duration="1546000" />
+      <workItem from="1710209516370" duration="2813000" />
+      <workItem from="1710241713150" duration="9720000" />
+      <workItem from="1710294522160" duration="926000" />
+      <workItem from="1710296426773" duration="2107000" />
+      <workItem from="1710299745555" duration="2196000" />
+      <workItem from="1710316509749" duration="4764000" />
+      <workItem from="1710326990491" duration="2097000" />
+      <workItem from="1710344823494" duration="3658000" />
+      <workItem from="1710383461404" duration="3610000" />
+      <workItem from="1710396184628" duration="14910000" />
+      <workItem from="1710429171049" duration="29000" />
+      <workItem from="1710429255856" duration="2494000" />
+      <workItem from="1710464134813" duration="3845000" />
+      <workItem from="1710489728338" duration="5000" />
+      <workItem from="1710502836531" duration="1430000" />
+      <workItem from="1710509589554" duration="5578000" />
+      <workItem from="1710566534390" duration="2053000" />
+      <workItem from="1710574272554" duration="175000" />
+      <workItem from="1710591284456" duration="9000" />
+      <workItem from="1710604209559" duration="1416000" />
+      <workItem from="1710651709152" duration="4653000" />
+      <workItem from="1710659775576" duration="4845000" />
+      <workItem from="1710686933111" duration="12000" />
+      <workItem from="1710687015576" duration="8000" />
+      <workItem from="1710811753590" duration="1911000" />
+      <workItem from="1710819232559" duration="37000" />
+      <workItem from="1710819447933" duration="12000" />
+      <workItem from="1710846208016" duration="2039000" />
+      <workItem from="1710853265019" duration="13000" />
+      <workItem from="1710863448967" duration="1162000" />
+      <workItem from="1710896517431" duration="3689000" />
+      <workItem from="1710901972382" duration="5030000" />
+      <workItem from="1710924920292" duration="8171000" />
+      <workItem from="1710942476629" duration="11000" />
+      <workItem from="1710950332420" duration="764000" />
+      <workItem from="1711005781672" duration="350000" />
+      <workItem from="1711007503772" duration="16000" />
+      <workItem from="1711024376337" duration="4013000" />
+      <workItem from="1711029898175" duration="19000" />
+      <workItem from="1711096311410" duration="1811000" />
+      <workItem from="1711112346363" duration="4935000" />
+      <workItem from="1711119344351" duration="77000" />
+      <workItem from="1711208746206" duration="306000" />
+      <workItem from="1711209656712" duration="196000" />
+      <workItem from="1711255624017" duration="1816000" />
+      <workItem from="1711270376576" duration="9000" />
+      <workItem from="1711287972644" duration="8691000" />
+      <workItem from="1711326775536" duration="420000" />
+      <workItem from="1711329673028" duration="10000" />
+      <workItem from="1711366209707" duration="2708000" />
+      <workItem from="1711439935535" duration="15000" />
+      <workItem from="1711501653296" duration="2987000" />
+      <workItem from="1711506507295" duration="4690000" />
+      <workItem from="1711527498342" duration="4176000" />
+      <workItem from="1711532345803" duration="36000" />
+      <workItem from="1711540060430" duration="384000" />
+      <workItem from="1711543706758" duration="66000" />
+      <workItem from="1711551733690" duration="23000" />
+      <workItem from="1711613713893" duration="3100000" />
+      <workItem from="1711617165822" duration="59000" />
+      <workItem from="1711617419577" duration="2095000" />
+      <workItem from="1711629160606" duration="11133000" />
+      <workItem from="1711672752028" duration="4892000" />
+      <workItem from="1711695353353" duration="10000" />
+      <workItem from="1711702813166" duration="4720000" />
+      <workItem from="1711781202570" duration="1455000" />
+      <workItem from="1711800656052" duration="16000" />
+      <workItem from="1711802967027" duration="3761000" />
+      <workItem from="1711810291617" duration="6000" />
+      <workItem from="1711874321784" duration="2192000" />
+      <workItem from="1711898251456" duration="12000" />
+      <workItem from="1711934215247" duration="2454000" />
+      <workItem from="1711939791649" duration="3338000" />
+      <workItem from="1711950852960" duration="5242000" />
+      <workItem from="1711959018530" duration="2197000" />
+      <workItem from="1711972223096" duration="15000" />
+      <workItem from="1712017920706" duration="4316000" />
+      <workItem from="1712059154091" duration="6268000" />
+      <workItem from="1712106228542" duration="3494000" />
+      <workItem from="1712110104923" duration="233000" />
+    </task>
+    <task id="LOCAL-00001" summary="feat: 提交后端代码">
+      <option name="closed" value="true" />
+      <created>1712107076011</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712107076011</updated>
+    </task>
+    <task id="LOCAL-00002" summary="feat: 提交后端代码">
+      <option name="closed" value="true" />
+      <created>1712108114404</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1712108114404</updated>
+    </task>
+    <task id="LOCAL-00003" summary="feat: 提交后端代码">
+      <option name="closed" value="true" />
+      <created>1712108681312</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1712108681312</updated>
+    </task>
+    <task id="LOCAL-00004" summary="feat: 提交后端代码">
+      <option name="closed" value="true" />
+      <created>1712108947989</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1712108947989</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="feat: 提交后端代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 提交后端代码" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

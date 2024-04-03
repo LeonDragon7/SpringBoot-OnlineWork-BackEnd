@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: service-zh
+  profiles:
+    active: dev
